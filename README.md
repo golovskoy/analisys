@@ -4,4 +4,4 @@
 | :----------------------------------------------------------------------------| :--------------------- |:---------------------------:|
 | [ML_churn](https://github.com/golovskoy/analysis/tree/main/ML_project)       | Спрогнозирована вероятность оттока (на уровне следующего месяца) для каждого клиента | pandas, Scikit-learn, Seaborn |
 |[Trading_systems](https://github.com/golovskoy/analysis/tree/main/My%20job) |Посчитано математическое ожидание, средние прибыль и убыток, а также выведен на график результат нарастающим итогом. |pandas, numpy, matploylib|
-|[Ya.Music](https://github.com/golovskoy/analysis/tree/main/My%20job](https://github.com/golovskoy/analysis/tree/main/Ya.Practicum_projects/1_Ya.Music) |Проект по исследованию прослушивания музыки в Москве и Санкт-Петербурге по дням недели. |pandas|
+|[Ya.Music](https://github.com/golovskoy/analysis/tree/main/Ya.Practicum_projects/1_Ya.Music) |Проект по исследованию прослушивания музыки в Москве и Санкт-Петербурге по дням недели. |pandas|
