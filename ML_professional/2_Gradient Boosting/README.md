@@ -10,4 +10,4 @@
 
 **Использованные технологии:** sklearn,xgboost, lightgbm, catboost, seaborn, matplotlib.
 
-**Статус проекта:** Завершен. 
+**Статус проекта:** В работе. 
